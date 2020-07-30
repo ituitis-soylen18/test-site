@@ -1,3 +1,11 @@
+h1{
+    margin-top: 0;
+}
+
+.navbar-brand{
+    margin-bottom: 20px;
+}
+
 #main-content{
-    margin-top: 50px;
+    margin: 70px 20px 20px 20px;
 }
